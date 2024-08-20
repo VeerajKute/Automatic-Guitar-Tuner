@@ -27,7 +27,7 @@ Include a circuit diagram image here if available.
 
 1. *Clone the Repository*:
    ```bash
-   git clone https://github.com//Automated-Guitar-Tuner.git
+   https://github.com/VeerajKute/Automatic-Guitar-Tuner.git
    cd Automated-Guitar-Tuner
 2.	Open the Project in Arduino IDE:
 	•	Open the guitar_tuner.ino file in the Arduino IDE.
