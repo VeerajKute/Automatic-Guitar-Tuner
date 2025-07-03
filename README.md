@@ -15,9 +15,6 @@ This project is an Arduino-based automated guitar tuner that uses a stepper moto
 - *Breadboard and Jumper Wires*: For connecting the components.
 - *Resistors*: As required for the microphone/sensor circuit.
 
-## Circuit Diagram
-Include a circuit diagram image here if available.
-
 ## Software Requirements
 - *Arduino IDE*: [Download Arduino IDE](https://www.arduino.cc/en/software).
 - *arduinoFFT Library*: Install via Arduino Library Manager.
